@@ -1,5 +1,5 @@
 # allenlabs
-My home lab exists to help me learn crucial technologies that I'll need as a sysadmin. Here I'll document what I am learning, as well as thoroughly document the set up of my home lab, for future reference. 
+My home lab exists to help me learn crucial technologies that I'll need as a sysadmin, and as a hobbyist. Here I'll document what I am learning, as well as thoroughly document the set up of my home lab, for future reference. 
 
 ### technologies I want to learn
 #### in no particular order

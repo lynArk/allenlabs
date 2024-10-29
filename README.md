@@ -6,7 +6,8 @@ My home lab exists to help me learn crucial technologies that I'll need as a sys
 1. [Learning](https://github.com/lynArk/allenlabs?tab=readme-ov-file#Learning)
 2. [Hardware](https://github.com/lynArk/allenlabs?tab=readme-ov-file#Hardware)
 3. [Software](https://github.com/lynArk/allenlabs?tab=readme-ov-file#Software)
-4. 
+4. [](https://github.com/lynArk/allenlabs?tab=readme-ov-file#)
+5. [Change Log](https://github.com/lynArk/allenlabs?tab=readme-ov-file#Change_Log)
 
 ## Learning
 
@@ -25,6 +26,8 @@ My home lab exists to help me learn crucial technologies that I'll need as a sys
 | Memory   | SODIMM, 1600 MHz DDR3L, 4GB                                |
 
 As you can see, I'm not working with very much. It's a pretty old laptop, rescued from a school upgrading it's hardware. But it is more than sufficient for my purposes. [A critical reference that I'm using to set up my homelab](https://github.com/Yann39/self-hosted "Yann39/self-hosted"), used a mere Banana Pi M5 board, so I think I'm good. 
+
+A note to anyone else intending on using an old laptop as a homelab/server: Many devices such as this have an option in the BIOS configuration, that will help preserve the battery on your device. On my device, x
 
 ## Software 
 

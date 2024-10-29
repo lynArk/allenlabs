@@ -35,3 +35,16 @@ A note to anyone else intending on using an old laptop as a homelab/server: Many
 Benefits:
 - a popular distro that will thus have a lot of community support and learning resources
 - no desktop environment by default, saving my server much of it's limited resources
+### Services 
+#### Docker
+#### Docker Compose
+#### Portainer
+#### Dockge
+#### WatchTower
+#### Dashdot
+#### Uptime Kuma
+#### AdGuard Home
+#### Home Assistant
+#### OliveTin
+#### endlessh-go
+#### Nginx Proxy Manager
